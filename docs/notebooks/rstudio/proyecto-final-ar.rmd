@@ -3,11 +3,11 @@ title: "Proyecto Final (Association Rules)"
 author: "Profesor Marciano A. Moreno D.C."
 date: "27 de mayo de 2021"
 output:
-  word_document: default
-  pdf_document:
-    latex_engine: xelatex
   html_document:
     df_print: paged
+  pdf_document:
+    latex_engine: xelatex
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
